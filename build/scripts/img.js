@@ -1,0 +1,1 @@
+const images=document.querySelectorAll(".image-container img");images.forEach(e=>{e.addEventListener("click",()=>{e.style.ಠ_ಠ805="scale(5.2)"}),e.addEventListener("dblclick",()=>{e.style.ಠ_ಠ805="scale(1)"})});
